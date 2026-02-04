@@ -30,3 +30,16 @@ console.log(checkResult(70)); // Pass
 console.log(checkResult(40)); // Fail
 console.log("")
 console.log("***************************************")
+
+
+
+// Exercise 3
+// Callback – Order Processing
+console.log("Exercise 3")
+console.log("3) Callback – Order Processing")
+
+function placeOrder(callback){
+    
+}
+console.log("")
+console.log("***************************************")
